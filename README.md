@@ -44,5 +44,5 @@ The project has following features:
 `````
 To Do:
 ````
-* Make image upload possible so that users ca make their articles even more informative and expressive.
+* Make image upload possible so that users can make their articles even more informative and expressive.
 * Add a comment section where the bloggers can show their admiration for others.
